@@ -339,6 +339,6 @@
 - [前端笔试题面试题记录（上）](https://juejin.cn/post/6844903577421365255)
 
 【个人公众号】
-![qrcode_for_gh_78f9ab86fdea_1280](https://user-images.githubusercontent.com/18207644/147390885-4af776e8-38b5-416c-8715-9209b38ae9f0.jpg)
+<img src="https://user-images.githubusercontent.com/18207644/147390885-4af776e8-38b5-416c-8715-9209b38ae9f0.jpg" width="200"/>
 
 偶尔分享前沿技术、写点项目小技巧，分享点个人心得
